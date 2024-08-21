@@ -1,0 +1,7 @@
+class HelloWorld {
+    public static void main(String[] args) {
+        int num1 = 20;
+        int num2 = 70;
+        {
+        System.out.println(3==4);
+    }}}
